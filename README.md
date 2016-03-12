@@ -1,4 +1,4 @@
-# pysh 0
+# pysh 1
 
 Run shell commands in a pythonic way.
 
