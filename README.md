@@ -2,6 +2,12 @@
 
 Run shell commands in a pythonic way.
 
+## Install
+
+Install using setup script:
+
+	#  python setup.py install
+
 ## Use
 
 Import commands and call them:
